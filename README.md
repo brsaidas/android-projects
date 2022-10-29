@@ -7,7 +7,7 @@ Some personal Android development projects
 ### Baladinha is an app that makes a bluetooth connection with the arduino and simulates the intensity of music with LEDs
 #### Download: [baladinha](https://drive.google.com/file/d/1IQTQwcZPgGq2Z-8YF8meXiJ26PnBX_9E/view?usp=share_link)
 
-###Bluetooth is the basic app for bluetooth connection with Arduino, it can be used as a base project
+### Bluetooth is the basic app for bluetooth connection with Arduino, it can be used as a base project
 ####  Download: [bluetooth](https://drive.google.com/file/d/1G4wRkkpO4LKGhiQBfpKXWltF4swVy7kB/view?usp=share_link)
 
 ### Download Manager Example the name is self-explanatory
