@@ -21,5 +21,11 @@ Download Manager Example the name is self-explanatory
 
 ## React Native
 
-BDApp is an app for connecting to a database using an API made for a selection process
+BDApp is an app for connecting to a database using an API made for a selection process. This application uses an API hosted on an online server, currently the server is no longer online (sorry) so if you want to test it, you will need to create your API and replace the source code link.
+<br /><br />
+<img src = "bd-app/img1.jpg" style = "width:30%" />
+<img src = "bd-app/img2.jpg" style = "width:30%" />
+<img src = "bd-app/img3.jpg" style = "width:30%" />
+<img src = "bd-app/img4.jpg" style = "width:30%" />
+<img src = "bd-app/img5.jpg" style = "width:30%" />
 #### Download: [DBApp](https://drive.google.com/file/d/1UhOc33-3nh8pYZStQR-VCgBOXunPYCUE/view?usp=share_link)
