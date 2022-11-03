@@ -5,9 +5,9 @@ Some personal Android development projects
 
 Terminal is an app that connects Arduino and the bluetooth module, very useful for debugging.
 <br /><br />
-<img src = "terminal/img1.jpg" style = "width:33%" />
-<img src = "terminal/img2.jpg" style = "width:33%" />
-<img src = "terminal/img3.jpg" style = "width:33%" />
+<img src = "terminal/img1.jpg" style = "width:30%" />
+<img src = "terminal/img2.jpg" style = "width:30%" />
+<img src = "terminal/img3.jpg" style = "width:30%" />
 #### Download: [terminal](https://drive.google.com/file/d/1sN1lQLeLn6wgx71HiJeYXv_0z7GN36wQ/view?usp=share_link)
 
 Baladinha is an app that makes a bluetooth connection with the arduino and simulates the intensity of music with LEDs
