@@ -28,4 +28,5 @@ BDApp is an app for connecting to a database using an API made for a selection p
 <img src = "bd-app/img3.jpg" style = "width:30%" />
 <img src = "bd-app/img4.jpg" style = "width:30%" />
 <img src = "bd-app/img5.jpg" style = "width:30%" />
-#### Download: [BDApp](https://drive.google.com/file/d/1UhOc33-3nh8pYZStQR-VCgBOXunPYCUE/view?usp=share_link)
+#### Download: [bd-app](https://drive.google.com/file/d/1UhOc33-3nh8pYZStQR-VCgBOXunPYCUE/view?usp=share_link)
+#### Download: [server-br-app](https://drive.google.com/file/d/16_xLQGdhO2vDYRxICLM90iHkiYkRLbEe/view?usp=share_link)
