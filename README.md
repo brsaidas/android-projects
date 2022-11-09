@@ -1,7 +1,7 @@
 # android-projects
 Some personal Android development projects
 
-## Android Studio and Java
+## <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> Android Studio and Java
 
 Terminal is an app that connects Arduino and the bluetooth module, very useful for debugging.
 <br /><br />
@@ -19,7 +19,7 @@ Bluetooth is the basic app for bluetooth connection with Arduino, it can be used
 Download Manager Example the name is self-explanatory
 #### Download: [download-manager-example](https://drive.google.com/file/d/1BILz0QPOw_cHXhTQwTOXtzxuwfhcnjKk/view?usp=share_link)
 
-## React Native
+## <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React Native
 
 BDApp is an app for connecting to a database using an API made for a selection process. This application uses an API hosted on an online server, currently the server is no longer online (sorry) so if you want to test it, you will need to create your API and replace the source code link.
 <br /><br />
